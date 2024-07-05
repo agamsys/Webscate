@@ -1,4 +1,4 @@
-# 🚀 Perplexica - An AI-powered search engine 🔎 <!-- omit in toc -->
+# 🚀 Webscate - An AI-powered search engine 🔎 <!-- omit in toc -->
 
 ![preview](.assets/perplexica-screenshot.png)
 
